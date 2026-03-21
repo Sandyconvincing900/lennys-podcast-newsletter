@@ -16,16 +16,18 @@ description: |
 - **349 篇 Newsletter**：产品管理、增长、职业发展深度文章
 - **17 个主题标签**：design, leadership, strategy, growth, startups, career, product-management, b2b, engineering, b2c, ai, analytics, go-to-market 等
 - **289 位嘉宾**：包括 Brian Chesky, Satya Nadella, Lenny 本人等
-- **数据来源**：[lennysdata.com](https://www.lennysdata.com) 付费订阅者存档
+- **数据来源**：[lennysdata.com](https://www.lennysdata.com)
 
-## 数据路径
+## 数据路径（自包含在 skill 内）
 
 ```
-~/乔木新知识库/20-29 学习/23 播客转录/lennys-data/
+references/
 ├── 01-start-here/    # README + index.json（元数据索引）
 ├── 02-newsletters/   # 349 篇 Newsletter Markdown
 └── 03-podcasts/      # 289 篇播客转录 Markdown
 ```
+
+脚本自动使用 skill 目录下的 `references/`，无需配置外部路径。
 
 ## 搜索脚本
 

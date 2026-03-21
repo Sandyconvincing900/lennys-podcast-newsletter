@@ -7,7 +7,9 @@ import os
 import re
 from pathlib import Path
 
-DATA_DIR = os.path.expanduser("~/乔木新知识库/20-29 学习/23 播客转录/lennys-data")
+# Auto-detect: use skill's bundled references/ directory
+SKILL_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+DATA_DIR = os.path.join(SKILL_DIR, "references")
 INDEX_FILE = os.path.join(DATA_DIR, "01-start-here/index.json")
 
 

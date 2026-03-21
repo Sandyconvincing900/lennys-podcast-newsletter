@@ -1,6 +1,1 @@
-# Lenny's data files (paid subscriber content, do not publish)
-lennys-data/
-*.json
-
-# macOS
 .DS_Store
